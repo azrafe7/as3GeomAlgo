@@ -1,7 +1,7 @@
-hxGeomAlgo
+as3GeomAlgo
 ==========
 
-Small collection of geometry algorithms in Haxe 3.
+AS3 port of [hxGeomAlgo](https://github.com/azrafe7/hxGeomAlgo) - Small collection of geometry algorithms in Haxe 3.
 
 ![](screenshot.png)
 
