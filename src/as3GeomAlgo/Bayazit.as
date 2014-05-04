@@ -2,9 +2,10 @@
  * Bayazit polygon decomposition implementation.
  * NOTE: Should work only for SIMPLE polygons (not self-intersecting, without holes).
  * 
- * Adapted/modified from:
+ * Based on:
  * 
  * @see http://mnbayazit.com/406/bayazit							(C - by Mark Bayazit)
+ * @see http://mnbayazit.com/406/credit
  * 
  * Other credits should go to papers/work of: 
  * 
@@ -15,13 +16,13 @@
  * @author azrafe7
  */
 
-package net.azrafe7.geomAlgo
+package as3GeomAlgo
 {
 
 	import flash.geom.Point;
 	import flash.utils.getDefinitionByName;
 	import flash.utils.getQualifiedClassName;
-	import net.azrafe7.geomAlgo.PolyTools;
+	import as3GeomAlgo.PolyTools;
 
 
 	public class Bayazit

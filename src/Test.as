@@ -14,10 +14,10 @@ package
 	import flash.text.TextField;
 	import flash.text.TextFormat;
 	import flash.text.TextFormatAlign;
-	import net.azrafe7.geomAlgo.EarClipper;
-	import net.azrafe7.geomAlgo.MarchingSquares;
-	import net.azrafe7.geomAlgo.RamerDouglasPeucker;
-	import net.azrafe7.geomAlgo.Bayazit;
+	import as3GeomAlgo.EarClipper;
+	import as3GeomAlgo.MarchingSquares;
+	import as3GeomAlgo.RamerDouglasPeucker;
+	import as3GeomAlgo.Bayazit;
 
 
 	[SWF(width="800", height="340", backgroundColor="#222222")]

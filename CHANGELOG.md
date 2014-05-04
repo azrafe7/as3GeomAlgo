@@ -1,0 +1,13 @@
+ - Added first impl. of MarchingSquares and RamerDouglasPeucker
+ - MarchingSquares: Fixed bug where it wouldn't work on fully opaque bitmapdata
+ - MarchingSquares: Added alpha threshold parameter
+ - MarchingSquares: Recognize illegal states
+ - MarchingSquares: Added clipRect support
+ - RDP: Fixed bug where it wouldn't work on circle-like polylines
+ - RDP: Ported Grumdrig's distanceToSegment to use in place of Karthaus' perpendicularDistance
+ - Added OpenFL demo
+ - Added EarClipper
+ - EarClipper: Support array of points instead of flat arrays
+ - EarClipper: Refactored to single class
+ - Added Bayazit poly decomp
+ - Added PolyTools class and refactored common code

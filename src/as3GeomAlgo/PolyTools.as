@@ -1,7 +1,7 @@
 /**
  * Collection of functions to make working with Point and Poly easier.
  * 
- * Some of these have been adapted/modified from:
+ * Some of these have been based on:
  * 
  * @see http://mnbayazit.com/406/bayazit																	(C - by Mark Bayazit)
  * @see http://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment		(JS - Grumdrig)
@@ -9,7 +9,7 @@
  * @author azrafe7
  */
 
-package net.azrafe7.geomAlgo
+package as3GeomAlgo
 {
 
 	import flash.geom.Point;
